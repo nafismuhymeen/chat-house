@@ -1,0 +1,35 @@
+.msg-card{
+    border: 1px solid whitesmoke;
+    background-color: lightsteelblue;
+    border-radius: 15px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.msg-card p{
+    margin: 0;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    padding: 5px 10px;
+}
+.msg-card-user{
+    border: 1px solid whitesmoke;
+    background-color: blue;
+    border-radius: 15px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 15px;
+}
+.msg-card-user p{
+    margin: 0;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    padding: 5px 10px;
+}
+form{
+    width: fit-content;
+    margin: 20px auto;
+}
